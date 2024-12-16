@@ -2,7 +2,7 @@
 
 45 место в рейтинге: https://yandex.ru/yaintern/training/results-ml
 ![alt text](image.png)
-
+![alt text](certificateML2.0.jpg)
 <h3>Лекции тренировок:</h3>
 
 - Лекция 1:
