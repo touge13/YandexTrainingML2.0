@@ -1,6 +1,6 @@
 # Тренировки по ML 2.0 от Яндекса
 
-45 место в рейтинге: https://yandex.ru/yaintern/training/results-ml
+45 место в рейтинге: https://yandex.ru/yaintern/training/results-ml-2
 ![alt text](image.png)
 ![alt text](certificateML2.0.jpg)
 <h3>Лекции тренировок:</h3>
